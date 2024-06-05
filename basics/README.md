@@ -10,3 +10,5 @@ Readme nuevo
 8-firstdelete delete a file from /tmp/my  rm /tmp/myfirst/betty
 9-firstdirdeletion delete a dir rmdir /tmp/myfirst
 10-back cd -
+11-lists ls -la . .. /root
+12-file_type file /tmp/iamafile
