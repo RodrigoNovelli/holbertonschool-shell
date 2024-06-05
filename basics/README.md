@@ -13,3 +13,5 @@ Readme nuevo
 11-lists ls -la . .. /root
 12-file_type file /tmp/iamafile
 13-symbolic_link ln -s (-s=simbolico) link toute (+) name
+14-14-copy_html cp -n (las q no existan) *.txt (condicion) destino
+15-lets_move find + mv find /path/to/source -type f -name '[A-Z]*' -exec mv -t /path/to/destination {} +
