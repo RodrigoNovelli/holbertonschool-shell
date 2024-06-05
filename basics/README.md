@@ -6,4 +6,5 @@ Readme nuevo
 4-listmorefiles List with . files ls -la
 5-listfilesdigitonly list hidden with id ls -a -li
 6-firstdirectory mk dir in dir Mkdir -p x/z
+7-movethatfil move file to /tmp/ mv 
 
