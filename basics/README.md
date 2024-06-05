@@ -14,5 +14,9 @@ Readme nuevo
 12-file_type file /tmp/iamafile
 13-symbolic_link ln -s (-s=simbolico) link toute (+) name
 14-14-copy_html cp -n (las q no existan) *.txt (condicion) destino
-15-lets_move find + mv find /path/to/source -type f -name '[A-Z]*' -exec mv -t /path/to/destination {} +
+15-lets_move mv ./[[:uppercase]]* /tmp/u 
 16-clean EMACS rm -r (todas) *~ (que terminen en ~)
+17-tree mkdir -p (tods las necesarias) ./tal/tall/talll
+
+day 2 
+0-im_betty su (su + user)
