@@ -5,4 +5,5 @@ Readme nuevo
 3-listfiles Complete list of files ls -l
 4-listmorefiles List with . files ls -la
 5-listfilesdigitonly list hidden with id ls -a -li
+6-firstdirectory mk dir in dir Mkdir -p x/z
 
