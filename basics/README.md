@@ -9,3 +9,4 @@ Readme nuevo
 7-movethatfil move file to /tmp/ mv /tmp/betty /tmp/myfirst 
 8-firstdelete delete a file from /tmp/my  rm /tmp/myfirst/betty
 9-firstdirdeletion delete a dir rmdir /tmp/myfirst
+10-back cd -
