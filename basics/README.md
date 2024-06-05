@@ -15,3 +15,4 @@ Readme nuevo
 13-symbolic_link ln -s (-s=simbolico) link toute (+) name
 14-14-copy_html cp -n (las q no existan) *.txt (condicion) destino
 15-lets_move find + mv find /path/to/source -type f -name '[A-Z]*' -exec mv -t /path/to/destination {} +
+16-clean EMACS rm -r (todas) *~ (que terminen en ~)
