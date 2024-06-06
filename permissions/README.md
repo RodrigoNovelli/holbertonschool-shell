@@ -2,3 +2,5 @@
 1--who_im id -un (identificar username)
 2- id -nG for user groups
 3- CHANGE FILE owner, chown (user) (file)
+4-empty touch hello
+5-execute chmod u+x hello
