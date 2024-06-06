@@ -9,3 +9,4 @@
 9
 10- MIRROR PERMISSIONS chmode --reference=fileref file
 11- chmod -R (para q sea todas) +x (agregar ex) */ (todos los sub d la carp actual)
+12- mkdir -m (gives the permissions with this parameter) 777 dirname
