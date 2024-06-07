@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type f | head -n 10 | sort -M
+ls -l | head -n 10 | sort -k2M -k3n -k4 -r
