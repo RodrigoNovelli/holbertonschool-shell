@@ -6,7 +6,8 @@
 5-execute chmod u+x hello
 6- 754 (rwxr-xr--)
 7- +x (agraga permisos de ejecutar a todos) 
-9
+8- 007 (solo permisos comoletos a other)
+9- 753 (rwxr-x-wx)
 10- MIRROR PERMISSIONS chmode --reference=fileref file
 11- chmod -R (para q sea todas) +x (agregar ex) */ (todos los sub d la carp actual)
 12- mkdir -m (gives the permissions with this parameter) 777 dirname
