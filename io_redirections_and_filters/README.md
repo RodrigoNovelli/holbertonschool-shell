@@ -4,7 +4,7 @@
 3- cat file1 fule2 (muestra ambas)
 4- tail -n 10 file
 5- head -n 10 file 
-6
+6- head -n 3 | tail -n 1
 7
 8
 9
