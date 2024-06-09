@@ -5,7 +5,7 @@
 4-empty touch hello
 5-execute chmod u+x hello
 6- 754 (rwxr-xr--)
-7
+7- +x (agraga permisos de ejecutar a todos) 
 9
 10- MIRROR PERMISSIONS chmode --reference=fileref file
 11- chmod -R (para q sea todas) +x (agregar ex) */ (todos los sub d la carp actual)
