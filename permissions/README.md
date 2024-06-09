@@ -4,7 +4,7 @@
 3- CHANGE FILE owner, chown (user) (file)
 4-empty touch hello
 5-execute chmod u+x hello
-6
+6- 754 (rwxr-xr--)
 7
 9
 10- MIRROR PERMISSIONS chmode --reference=fileref file
